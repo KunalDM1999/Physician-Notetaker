@@ -1,0 +1,18 @@
+{
+  "Subjective": {
+    "Chief_Complaint": "My neck and back pain were really bad\u2014I had trouble sleeping and had to take painkillers regularly.",
+    "History_of_Present_Illness": "The patient has had a history of back pain for the past 6 months. The pain is constant and is not relieved by medication. The pain is worse at night and is not associated with any particular position or activity. The pain has not affected the patient's ability to work or perform daily activities."
+  },
+  "Objective": {
+    "Physical_Exam": "Physical examination of the patient was remarkable for tenderness in the right supraclavicular region.",
+    "Observations": "Your neck and back have a full range of movement, and there\u2019s no tenderness or signs of lasting damage. There are no signs of long-term damage or degeneration."
+  },
+  "Assessment": {
+    "Diagnosis": "Whiplash injury with neck and back strain",
+    "Severity": "Mild"
+  },
+  "Plan": {
+    "Treatment": "The patient was treated with antibiotics and anti-inflammatory medications. The patient was also advised to rest and avoid weightlifting.",
+    "Follow_Up": "At this point, you are on track for a full recovery."
+  }
+}

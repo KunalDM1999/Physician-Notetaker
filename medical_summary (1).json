@@ -1,0 +1,15 @@
+{
+  "Patient_Name": "Jones",
+  "Symptoms": [
+    "Head impact",
+    "Back pain",
+    "Neck pain"
+  ],
+  "Diagnosis": "Whiplash injury",
+  "Treatment": [
+    "Painkillers",
+    "10 physiotherapy sessions"
+  ],
+  "Current_Status": "Occasional backache",
+  "Prognosis": "Full recovery expected within six months"
+}
